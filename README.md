@@ -85,6 +85,6 @@ transparent.
 Colors picked from the design-system artboard: teal `#00C8E2`, blue
 `#0257FF`/`#3A7CFF`, purple `#7D64FC`/`#9985FF`, ink `#051137`, stat label
 `#95B4EF`. Fonts per artboard: Manrope (circle labels), Mona Sans (card
-titles), DM Mono (stat label). Note: artboard palette/type differs from Oracle
+titles), DM Mono (stat label). Note: artboard palette/type differs from PreFixAI
 Brain canon (blue `#0463EF`, Archivo body) — matches the design-system file,
 same flag as prebill-hero.
